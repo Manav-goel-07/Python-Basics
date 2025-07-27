@@ -4,14 +4,14 @@ This is a simple Python script to check if the entered text is a palindrome.
 
 ## How to run
 
-\`\`\`bash
+\`\`\`bash - 
 python palindrome.py
 \`\`\`
 
 ## Example
 
 \`\`\`
-Enter text: madam
+Enter text: madam \n
 Palindrome!
 \`\`\`
 
