@@ -11,7 +11,7 @@ python palindrome.py
 ## Example
 
 \`\`\`
-Enter text: madam \n
+Enter text: madam 
 Palindrome!
 \`\`\`
 
